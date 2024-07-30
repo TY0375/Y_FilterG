@@ -1,5 +1,5 @@
 ![Adblock Plus 2.0]
-! Title: Y_FilterG-ExtendedRule v1.5
+! Title: Y_FilterG-ExtendedRule v1.6
 ! Homepage: http://abehiroshi.la.coocan.jp/
 !
 !-ファイルは-project-adblock_fにある
@@ -41,13 +41,10 @@ google.*##.R4Mxwe
 google.*##.JRsFnf
 google.*##.gg4UKb
 !
-<<<<<<< HEAD
 !--画像検索の不要物削除
 google.*##.Xx7Mif > .Gcxb4e.H3y5ab > .HTOhZ
 google.*##.BA0zte
 !
-=======
->>>>>>> origin/master
 !---------------多分要らない
 google.*##.rzRb5e
 google.*##.ouy7Mc
