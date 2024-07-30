@@ -1,0 +1,28 @@
+![Adblock Plus 2.0]
+! Title: Y_FilterG-Mobile v1.0
+! Homepage: https://www.hibiki-site.com/products/pretty-cation/index.html
+!
+blog.livedoor.jp###ld-floating-menu
+!
+blog.livedoor.jp##aside.section-box > div[class*="plugin-blogroll"]
+blog.livedoor.jp##aside.section-box > div[class*="plugin-popular"]
+!
+ideal2ch.livedoor.biz##aside#lite_link
+ideal2ch.livedoor.biz##.section-box > div[class*="plugin-blogroll"]
+!
+jisaka.com##aside.section-box > div[class*="plugin-blogroll"]
+jisaka.com###ld-floating-menu
+!rera1016-whiskeyのブログパーツを消す用
+blog.livedoor.jp##nav.section-box > ul[class*="article"]
+blog.livedoor.jp##aside.section-box > div[class*="plugin-free"]
+!
+!--アズレン攻略wiki
+azurlane.wikiru.jp##[src*="fam-8.net"]
+!
+! アズールレーン速報
+azurlane.doorblog.jp##aside.section-box > [class^="plugin-popular"]
+azurlane.doorblog.jp##aside.section-box > [class^="plugin-blogroll"]
+azurlane.doorblog.jp##aside.section-box > [class^="plugin-twitter_follow_button"]
+!
+!サジェスト汚染対策 拡張フィルタで対策
+!------------------------------end------------------------------!
