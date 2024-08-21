@@ -1,6 +1,6 @@
 ![Adblock Plus 2.0]
-! Title: Y_FilterG-ExtendedRule v1.7
-! Homepage: http://abehiroshi.la.coocan.jp/
+! Title: Y_FilterG-ExtendedRule v1.8.1
+! Homepage: https://nakae-mitsuki.net/kaleido/
 !
 !Googleのサジェスト汚染対策用のフィルタ(デスクトップ、モバイル共存)
 google.*##li.sbct:has-text(/(嫌い|危ない|終売|終了|開発終了|開発中止|死刑|死亡|危険性|スピリチュアル|逮捕|ダサい|つまらない|特定|何が悪い|パクリ|ひどい|病気|まずい|うまい|やばい|やめとけ|炎上|気持ち悪い|気持ち 悪い|体に悪い|安い理由)/)

@@ -1,6 +1,6 @@
 ![Adblock Plus 2.0]
-! Title: Y_FilterG-Mobile v1.0
-! Homepage: https://www.hibiki-site.com/products/pretty-cation/index.html
+! Title: Y_FilterG-Mobile v1.1
+! Homepage: https://nakae-mitsuki.net/kaleido/
 !
 blog.livedoor.jp###ld-floating-menu
 !
