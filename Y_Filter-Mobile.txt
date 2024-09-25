@@ -1,35 +1,29 @@
 ![Adblock Plus 2.0]
-! Title: Y_FilterG-Mobile v1.5
+! Title: Y_FilterG-Mobile v1.9.0 Nightly
 ! Homepage: https://github.com/TY0375/Y_FilterG/tree/master
+!
+! experimantal allow list
+@@||images-fe.ssl-images-amazon.com/images/I/*$image,domain=blog.livedoor.jp
+@@||.LargeImage.amazon,domain=blog.livedoor.jp
 !
 blog.livedoor.jp###ld-floating-menu
 blog.livedoor.jp##aside.section-box > div[class*="plugin-blogroll"]
 blog.livedoor.jp##aside.section-box > div[class*="plugin-popular"]
+blog.livedoor.jp##nav.section-box > ul[class*="article"]
+blog.livedoor.jp##aside.section-box > div[class*="plugin-free"]
+blog.livedoor.jp##.article-comment-count
 !
 ideal2ch.livedoor.biz##aside#lite_link
 ideal2ch.livedoor.biz##.section-box > div[class*="plugin-blogroll"]
-!--20240910 コメント欄削除
 ideal2ch.livedoor.biz##.plugin-box.plugin-comment_list
 ideal2ch.livedoor.biz##.article-comment-count
 !
-! 2024/09/10 https://hattatu-matome.ldblog.jp
 hattatu-matome.ldblog.jp##.article-comment-count
 hattatu-matome.ldblog.jp##.plugin-comment_list
 !
-!--消してもいい
-jisaka.com##aside.section-box > div[class*="plugin-blogroll"]
-jisaka.com###ld-floating-menu
-!
-!--ブログパーツを消す用
-blog.livedoor.jp##nav.section-box > ul[class*="article"]
-blog.livedoor.jp##aside.section-box > div[class*="plugin-free"]
-!
-!--アズレン攻略wiki
 azurlane.wikiru.jp##[src*="fam-8.net"]
 !
-!--アズールレーン速報
 azurlane.doorblog.jp##aside.section-box > [class^="plugin-popular"]
 azurlane.doorblog.jp##aside.section-box > [class^="plugin-blogroll"]
 azurlane.doorblog.jp##aside.section-box > [class^="plugin-twitter_follow_button"]
-!
 !------------------------------end------------------------------!
