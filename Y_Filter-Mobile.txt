@@ -1,5 +1,5 @@
 ![Adblock Plus 2.0]
-! Title: Y_FilterG-Mobile v2.0
+! Title: Y_FilterG-Mobile v2.1
 ! Homepage: https://github.com/TY0375/Y_FilterG/tree/master
 !
 blog.livedoor.jp###ld-floating-menu
