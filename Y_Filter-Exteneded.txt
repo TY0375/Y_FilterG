@@ -1,5 +1,5 @@
 ![Adblock Plus 2.0]
-! Title: Y_FilterG-ExtendedRule v2.2.2
+! Title: Y_FilterG-ExtendedRule v2.2.3
 ! Homepage: https://github.com/TY0375/Y_FilterG/tree/master
 !
 !Googleのサジェスト汚染対策用のフィルタ(デスクトップ、モバイル共存)
