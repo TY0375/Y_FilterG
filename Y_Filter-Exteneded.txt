@@ -1,5 +1,5 @@
 ![Adblock Plus 2.0]
-! Title: Y_FilterG-ExtendedRule v2.2.1
+! Title: Y_FilterG-ExtendedRule v2.2.2
 ! Homepage: https://github.com/TY0375/Y_FilterG/tree/master
 !
 !Googleのサジェスト汚染対策用のフィルタ(デスクトップ、モバイル共存)
@@ -28,7 +28,6 @@ google.*##.Eo69Yc
 !
 !--変な質問を削除(下はデスクトップ)
 google.*##.cUnQKe
-google.*##.Wt5Tfe
 !
 !--不明
 !google.*##.YU4JV
@@ -53,6 +52,7 @@ google.*##.BA0zte
 !---------------多分要らない
 google.*##.rzRb5e
 !google.*##.ouy7Mc
+!google.*##.Wt5Tfe
 !
 !---------------Experimental beta
 google.*#?#li:contains(/(嫌い|何がすごい|スピリチュアル|どこの国|甘え|危ない|終売|終了|開発終了|開発中止|死刑|死亡|危険性|逮捕|ダサい|つまらない|特定|何が悪い|パクリ|ひどい|病気|まずい|うまい|やばい|やめとけ|炎上|気持ち悪い|気持ち 悪い|体に悪い|安い理由)/)
